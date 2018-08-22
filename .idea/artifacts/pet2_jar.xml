@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="pet2:jar">
+    <output-path>$PROJECT_DIR$/../pet2/out/artifacts/pet2_jar</output-path>
+    <root id="archive" name="pet2.jar">
+      <element id="module-output" name="pet2" />
+    </root>
+  </artifact>
+</component>
